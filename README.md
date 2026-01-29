@@ -1,4 +1,4 @@
-# NYC Rush Hour Bike Demand Analysis using PostGIS
+# NYC Spatio-Temporal Mobility Analytics
 
 Based on the LinkedIn Learning course ["Hands-On PostgreSQL Project: Spatial Data Science"](https://www.linkedin.com/learning/hands-on-postgresql-project-spatial-data-science), this project applies advanced spatio-temporal analysis and geospatial visualization techniques to a synthetic but realistic urban dataset. It showcases proficiency in spatial SQL, geospatial data modeling, interactive map creation, and Python-based spatial analytics—all essential for real-world geospatial workflows.
 
