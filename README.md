@@ -1,4 +1,4 @@
-# NYC Spatio-Temporal Mobility Analytics
+# Spatio-Temporal Mobility Analytics
 
 I developed this project, which involved applying advanced analysis and geospatial visualization techniques to a synthetic but highly realistic urban dataset. Throughout the project, I demonstrated proficiency in spatial SQL, geospatial data modeling, and the creation of interactive maps, all of which are crucial for real-world geospatial workflows.
 
