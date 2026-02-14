@@ -1,6 +1,6 @@
 # Spatio-Temporal Mobility Analytics
 
-I developed this project, which involved applying advanced analysis and geospatial visualization techniques to a synthetic but highly realistic urban dataset. Throughout the project, I demonstrated proficiency in spatial SQL, geospatial data modeling, and the creation of interactive maps, all of which are crucial for real-world geospatial workflows.
+Developed this project by applying advanced analysis and geospatial visualization techniques to a synthetic but highly realistic urban dataset. Throughout this, I demonstrated proficiency in **spatial SQL**, **geospatial data modeling**, and the **creation of interactive maps**, all of which are crucial for real-world geospatial workflows.
 
 ---
 
@@ -81,11 +81,11 @@ Census tracts were chosen over other geographic boundaries (e.g., neighborhoods,
 
 ## Visualizations
 
-* **Time Manager Plugin:** Animated choropleth maps showing trip count evolution.
+* **Time Manager Plugin:** Animated choropleth map showing trip count evolution.
 
 [Watch video preview](https://github.com/user-attachments/assets/c84d7930-4373-4533-92cc-fbde3ea1ac22)
 
-* **Python:** Additional bar plots and time series charts using Pandas & Matplotlib.
+* **Python:** Bar plot showing trip counts by a half-hour start time per day.
 
 ![Chart](https://github.com/user-attachments/assets/92d38bc1-800b-4215-a213-8737afc1149c)
 
